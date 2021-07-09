@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+ .cont{
+    background-image: url('./image/bg5.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 70vh;
+}
+
+.jumbotron .jhead{
+    font-size: 4em;
+    font-weight: 900;
+    color: rgb(28, 102, 238);
+}
+
+.jumbotron .leadtxt{
+    font-size: 2em;
+    color: rgb(28, 102, 238);
+ font-weight: 700;
+}
+
+ .jumbo{
+    background: linear-gradient(120deg, rgb(214, 24, 214),rgb(73, 138, 223),rgb(133, 245, 41)) !important ;
+}
+
+/* CARDS*/
+
+.Cards{
+    margin: 20px 20px;
+}
+
+/*FOOTER*/
+
+.end{
+  margin-bottom: 1em;
+}
+
+.list{
+    list-style: none;
+    color: aquamarine;
+}
+
+footer{
+    margin-bottom: 0px;
+    background-color: #000;
+    color: #fff;
+    height: 2em;
+}
